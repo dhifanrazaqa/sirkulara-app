@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486228667948",
+    "project_id": "sirkulara-14669",
+    "storage_bucket": "sirkulara-14669.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486228667948:android:b8bb058fd3dc7285386b89",
+        "android_client_info": {
+          "package_name": "com.sirkulara.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPa3MqZx-zGw13Gfoo60Q4TWFJ5Kb1To8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

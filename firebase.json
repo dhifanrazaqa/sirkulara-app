@@ -1,0 +1,8 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}{"flutter":{"platforms":{"android":{"default":{"projectId":"sirkulara-14669","appId":"1:486228667948:android:b8bb058fd3dc7285386b89","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"sirkulara-14669","appId":"1:486228667948:ios:4e714891bc469a4d386b89","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"sirkulara-14669","configurations":{"android":"1:486228667948:android:b8bb058fd3dc7285386b89","ios":"1:486228667948:ios:4e714891bc469a4d386b89","web":"1:486228667948:web:c1954aa8baad9f2a386b89"}}}}}}
