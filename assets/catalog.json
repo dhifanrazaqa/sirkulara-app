@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "planter",
+    "title": "Planter",
+    "materialType": "kertas",
+    "difficulty": "sedang",
+    "estimatedValue": 30000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fplanter.png?alt=media&token=d777575e-8131-4e8b-8e00-d7c86e80e4e6",
+    "youtubeUrl": "https://youtu.be/7J2xWRe6eMU?si=tpvfxsixM0Pxg_9n",
+    "description": "Turn your paper bag into a stylish herb planter. Just line it and add soil!",
+    "supplies_needed": [
+      "Brown paper bag",
+      "Scissors",
+      "Waterproof liner (contact paper or plastic)",
+      "Hot glue gun or double-sided tape",
+      "Twine or ribbon (optional)",
+      "Small pot, soil & plant"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Brown Paper Bag": "2,000-3,000",
+        "Scissors": "0",
+        "Waterproof Liner": "1,500-2,000",
+        "Hot Glue Gun or Double-Sided Tape": "1,000-1,500",
+        "Twine or Ribbon": "1,000-2,000",
+        "Small Pot, Soil & Plant": "2,500-4,000"
+      },
+      "suggested_price": "25,000-35,000",
+      "profit": "16,500-24,500"
+    },
+    "estimated_time": "45-60 minutes",
+    "market_segment": {
+      "Budget Buyers": "best at 25,000 (target: students, young households)",
+      "Mid-Range Buyers": "best at 30,000 (target: office workers, home décor lovers, eco-friendly lifestyle)",
+      "Premium Buyers": "best at 35,000 (target: gift shops, eco-living communities)"
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Cut & Flatten",
+        "instruction": "Potong bagian dasar dan satu sisi kantong kertas, lalu ratakan kantong agar menjadi lembaran datar yang siap dibentuk.",
+        "technicalCriteria": [
+          "Potongan dasar lurus dan rata di sepanjang tepi",
+          "Lembaran hasil pemotongan tidak sobek atau bergelombang"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Add Waterproof Liner",
+        "instruction": "Lapisi bagian dalam setengah bawah kantong dengan contact paper agar tahan terhadap air dan kelembapan.",
+        "technicalCriteria": [
+          "Liner menutupi seluruh area bawah tanpa celah atau gelembung udara",
+          "Liner menempel rapat pada permukaan kertas"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 3,
+        "title": "Fold Top Edge",
+        "instruction": "Lipat bagian atas kantong ke bawah sebanyak dua kali untuk menciptakan tepi yang rapi dan kuat.",
+        "technicalCriteria": [
+          "Lipatan atas rapi dan sejajar di sekeliling bibir kantong",
+          "Tinggi lipatan konsisten 2-3 cm"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Shape Cylinder & Seal Side",
+        "instruction": "Gulung lembaran menjadi bentuk silinder, lalu rekatkan sisi sambungan menggunakan lem tembak atau double-tape.",
+        "technicalCriteria": [
+          "Bentuk silinder rapi dan bulat, tidak penyok",
+          "Sambungan sisi tertutup rapat tanpa celah terbuka"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Create Base",
+        "instruction": "Lipat bagian bawah seperti membungkus kado, lalu rekatkan dengan kuat agar alas planter kokoh.",
+        "technicalCriteria": [
+          "Alas rata dan dapat berdiri stabil",
+          "Tidak ada celah pada lipatan alas yang dapat membuat tanah/air bocor"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Decorate (Optional)",
+        "instruction": "Lilitkan twine atau pita di sekeliling bibir planter untuk menambah nilai estetika.",
+        "technicalCriteria": [
+          "Lilitan twine/pita rapi dan simetris",
+          "Hiasan tidak menutupi area struktural yang menahan bentuk"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Add Plant",
+        "instruction": "Masukkan pot kecil berisi tanah dan tanaman ke dalam planter yang sudah jadi.",
+        "technicalCriteria": [
+          "Pot terpasang stabil dan tidak goyah di dalam planter",
+          "Planter tidak bocor saat disiram air"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "mini_basket",
+    "title": "Mini Basket",
+    "materialType": "kertas",
+    "difficulty": "mudah",
+    "estimatedValue": 23000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fmini-basket.png?alt=media&token=1bf19992-b052-42cc-86f4-a60e3202a085",
+    "youtubeUrl": "https://youtu.be/OZ0hBUMWfEE?si=_2RoxSBsBBmcZoRk",
+    "description": "Transform a brown paper bag into a stylish mini basket for organizing stationery, kitchen tools, or small items.",
+    "supplies_needed": [
+      "Brown paper bag (kraft)",
+      "Scissors",
+      "Hot glue gun or double-sided tape",
+      "Scrap cardboard square (to reinforce base)",
+      "Ruler & pencil (optional)",
+      "Twine or ribbon (optional trim)",
+      "Waterproof liner/contact paper (optional if used near moisture)"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Brown Paper Bag": "2,000–3,000",
+        "Scissors": "0",
+        "Glue or Double-sided Tape": "1,000–1,500",
+        "Cardboard (Scrap)": "0–500",
+        "Twine or Ribbon": "1,000–2,000",
+        "Liner or Contact Paper": "1,500–2,000"
+      },
+      "suggested_price": "18,000–28,000",
+      "profit": "9,500–23,000"
+    },
+    "estimated_time": "15–25 minutes",
+    "market_segment": {
+      "Budget Buyers": "best at 18,000–20,000 (target: students, first-home setups, small affordable organizers)",
+      "Mid-Range Buyers": "best at 21,000–25,000 (target: office workers, home décor lovers & home-organizing)",
+      "Premium Buyers": "best at 26,000–28,000 (target: curated gift sets, custom labels/monogram)"
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Cut & Square",
+        "instruction": "Rapikan bagian atas kantong kertas jika diperlukan, lalu siku-kan tepi-tepinya agar bentuk dasar menjadi rapi.",
+        "technicalCriteria": [
+          "Tepi kantong terpotong lurus dan simetris",
+          "Tidak ada robekan pada badan kantong"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Fold Cuff",
+        "instruction": "Gulung manset rapi sekitar 2-3 cm di sekeliling bagian atas kantong untuk memberi struktur pada bibir keranjang.",
+        "technicalCriteria": [
+          "Lebar manset konsisten 2-3 cm di seluruh sisi",
+          "Lipatan manset rapat dan tidak longgar"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Open & Shape",
+        "instruction": "Buka kantong secara perlahan dan tekan bagian sudutnya untuk membentuk persegi/oval.",
+        "technicalCriteria": [
+          "Bentuk dasar keranjang simetris (persegi atau oval)",
+          "Sudut-sudut terbentuk tegas, tidak melengkung tidak beraturan"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Reinforce Base",
+        "instruction": "Rekatkan potongan kardus persegi di bagian dalam dasar keranjang untuk memperkuat struktur alas.",
+        "technicalCriteria": [
+          "Kardus penguat menutupi seluruh area alas",
+          "Alas tidak melengkung saat ditekan ringan"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Seal Side",
+        "instruction": "Tambahkan lem/tape di sepanjang sambungan sisi bagian dalam untuk kekuatan ekstra.",
+        "technicalCriteria": [
+          "Sambungan sisi tertutup rapat tanpa celah",
+          "Tidak ada bagian sisi yang masih terbuka/longgar"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Add Trim (Optional)",
+        "instruction": "Lilitkan twine/pita di sekeliling bibir keranjang, ikat simpul atau pita hias.",
+        "technicalCriteria": [
+          "Lilitan trim rapi dan simetris di sekeliling bibir",
+          "Simpul/pita terpasang kuat tidak mudah lepas"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Style & Use",
+        "instruction": "Letakkan alat tulis, perkakas dapur, atau barang kecil lainnya ke dalam keranjang.",
+        "technicalCriteria": [
+          "Keranjang dapat menahan beban barang isian tanpa berubah bentuk"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "decorative_pot",
+    "title": "Decorative Pot",
+    "materialType": "kertas",
+    "difficulty": "sedang",
+    "estimatedValue": 28000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fdecorative-pot.png?alt=media&token=ea407b83-9297-46c9-a4d0-f0cac238a3c5",
+    "youtubeUrl": "https://youtu.be/TfGN7Bdl1pU?si=VPLUtxDZss9N1FeF",
+    "description": "Crumple, seal & line your bag to use as a decorative water-resistant plant pot.",
+    "supplies_needed": [
+      "Brown paper bag (kraft)",
+      "Scissors",
+      "Hot glue gun atau double-sided tape",
+      "Small inner pot or reused jar (recommended for structure)",
+      "Ruler & pencil (optional)",
+      "Twine/ribbon or stickers (optional)",
+      "Waterproof liner (contact paper or plastic sheet)"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Brown Paper Bag": "2,000–3,000",
+        "Scissors": "0",
+        "Small inner pot or reused jar (recommended for structure)": "1,000–1,500",
+        "Ruler & pencil (optional)": "0–2,000",
+        "Twine/ribbon or stickers (optional)": "1,000–2,000",
+        "Waterproof liner (contact paper or plastic sheet)": "1,500–2,000"
+      },
+      "suggested_price": "22,000–35,000",
+      "profit": "17,000–30,000"
+    },
+    "estimated_time": "25–35 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 22,000-25,000 (target: plant beginners, dorm rooms, simple eco-style pot covers.)",
+      "Mid-Range Buyers": "best at 26,000-30,000 (target: home decor fans, office desk plants, stylish add-ons.)",
+      "Premium Buyers": "best at 31,000-35,000 (target: gift sets, custom patterns, eco-themed events.)"
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Crumple & Soften",
+        "instruction": "Kusutkan kantong kertas secara ringan untuk menciptakan tekstur seperti 'kulit kertas'.",
+        "technicalCriteria": [
+          "Tekstur kusut merata di seluruh permukaan kantong",
+          "Kertas tidak sobek akibat terlalu banyak dikusutkan"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Trim Height",
+        "instruction": "Potong kantong sesuai tinggi pot yang diinginkan.",
+        "technicalCriteria": [
+          "Tinggi potongan konsisten dan sejajar di sekeliling kantong",
+          "Tepi potongan rapi, tidak bergerigi"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Add Liner",
+        "instruction": "Lapisi bagian dalam dengan contact paper/plastik, lalu tekan kuat hingga menempel sempurna untuk menyegel kantong.",
+        "technicalCriteria": [
+          "Liner menutupi seluruh permukaan dalam tanpa gelembung udara",
+          "Tidak ada area yang masih terbuka/tidak terlapisi"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Shape Base",
+        "instruction": "Lipat dan tekan bagian bawah menjadi alas rata yang rapi, lalu perkuat dengan lem.",
+        "technicalCriteria": [
+          "Alas rata dan dapat berdiri stabil di permukaan datar",
+          "Tidak ada lipatan alas yang masih terbuka"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Seal Seams",
+        "instruction": "Aplikasikan lem/tape di sepanjang sambungan dalam untuk mencegah kebocoran.",
+        "technicalCriteria": [
+          "Seluruh sambungan tertutup rapat tanpa celah",
+          "Tidak ada rembesan saat diuji dengan sedikit air"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Roll Rim",
+        "instruction": "Gulung manset rapi sekitar 2-3 cm pada bibir pot agar lebih kokoh dan rapi.",
+        "technicalCriteria": [
+          "Lebar manset konsisten 2-3 cm di sekeliling bibir pot",
+          "Manset menempel rapat, tidak longgar"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Insert Pot & Decorate",
+        "instruction": "Masukkan pot/jar bagian dalam, lalu tambahkan twine, stiker, atau tag sebagai sentuhan akhir.",
+        "technicalCriteria": [
+          "Pot bagian dalam pas dan stabil di dalam dekoratif pot",
+          "Hiasan tambahan terpasang rapi dan simetris"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      }
+    ]
+  },
+  {
+    "id": "recycled_can_cutlery_holder",
+    "title": "Recycled Can Cutlery Holder",
+    "materialType": "kaleng",
+    "difficulty": "sedang",
+    "estimatedValue": 70000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fcan-cutlery.jpg?alt=media&token=7191a18b-ecd9-440d-9d3e-cdef87eb4156",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IsE7-hDrelY",
+    "description": "Transform used cans and a wooden base into a stylish cutlery holder with painted finishes and leather accents.",
+    "supplies_needed": [
+      "6 clean, dry cans",
+      "Enamel paint or spray paint",
+      "Block of pine (150 x 250 mm)",
+      "80-grit sandpaper or grinding tool",
+      "Wire nail and hammer or drill/driver with 2mm drill bit",
+      "16mm screws and screw cups",
+      "Leather strap for handle",
+      "Small leather tags for labeling",
+      "Epoxy glue"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Recycled Cans": "0",
+        "Enamel/Spray Paint": "15,000–20,000",
+        "Pine Block": "10,000–15,000",
+        "Sandpaper": "5,000–7,000",
+        "Screws & Screw Cups": "5,000–8,000",
+        "Leather (recycled/old bag)": "0–10,000",
+        "Epoxy Glue": "8,000–12,000"
+      },
+      "suggested_price": "60,000–85,000",
+      "profit": "25,000–45,000"
+    },
+    "estimated_time": "40–60 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 60,000–65,000 (target: eco-friendly DIY fans, students, casual home use).",
+      "Mid-Range Buyers": "best at 66,000–75,000 (target: home entertainers, cafes, rustic style lovers).",
+      "Premium Buyers": "best at 76,000–85,000 (target: boutique kitchen decor, gifts, handmade craft markets)."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Prepare Cans",
+        "instruction": "Hilangkan bagian tepi tajam pada kaleng menggunakan amplas atau alat gerinda.",
+        "technicalCriteria": [
+          "Tidak ada bagian tepi kaleng yang masih tajam/berbahaya",
+          "Permukaan tepi kaleng halus saat disentuh"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Paint Finish",
+        "instruction": "Lapisi kaleng dan alas kayu dengan cat enamel/semprot, lalu keringkan semalaman.",
+        "technicalCriteria": [
+          "Lapisan cat merata tanpa bagian yang masih terlihat material asli",
+          "Permukaan cat kering sempurna, tidak lengket"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Drill Holes",
+        "instruction": "Buat lubang pilot di bagian atas setiap kaleng untuk tempat sekrup.",
+        "technicalCriteria": [
+          "Posisi lubang sejajar dan simetris pada setiap kaleng",
+          "Diameter lubang sesuai ukuran sekrup (2 mm)"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 4,
+        "title": "Attach Cans",
+        "instruction": "Pasang kaleng-kaleng pada balok kayu pinus menggunakan sekrup dan screw cup.",
+        "technicalCriteria": [
+          "Jarak antar kaleng merata dan simetris pada balok kayu",
+          "Setiap kaleng terpasang kokoh, tidak goyah"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Add Handle",
+        "instruction": "Pasang tali kulit pada balok sebagai pegangan untuk membawa wadah.",
+        "technicalCriteria": [
+          "Posisi handle simetris di tengah balok",
+          "Handle terpasang kuat dan dapat menahan beban wadah saat diangkat"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": true,
+        "validationType": "handle"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Label Cans",
+        "instruction": "Tempelkan tag kulit kecil pada bagian depan setiap kaleng menggunakan lem epoxy.",
+        "technicalCriteria": [
+          "Posisi tag sejajar dan simetris pada setiap kaleng",
+          "Tag menempel kuat tanpa terkelupas"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      }
+    ]
+  },
+  {
+    "id": "cereal_box_desk_organizer",
+    "title": "Cereal Box Desk Organizer",
+    "materialType": "kardus",
+    "difficulty": "mudah",
+    "estimatedValue": 45000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2FCereal-Box-Organizer.jpg?alt=media&token=0759bd6b-2468-4907-9e5b-2539fce509e0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KdSH8NabDHc",
+    "description": "Turn empty cereal boxes into a functional desk organizer with decorative paper for a budget-friendly DIY storage solution.",
+    "supplies_needed": [
+      "2–3 empty cereal boxes",
+      "Decorative scrapbook paper or wrapping paper",
+      "Ruler and pencil",
+      "Scissors or craft knife",
+      "Glue stick or Mod Podge",
+      "Tape (optional, for reinforcement)"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Cereal Boxes (recycled)": "0",
+        "Decorative Paper": "5,000–10,000",
+        "Glue Stick / Mod Podge": "8,000–15,000",
+        "Scissors / Craft Knife": "0 (household item)",
+        "Tape (optional)": "3,000–5,000"
+      },
+      "suggested_price": "35,000–55,000",
+      "profit": "20,000–40,000"
+    },
+    "estimated_time": "30–45 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 35,000–40,000 (target: students, dorm rooms, simple organizers).",
+      "Mid-Range Buyers": "best at 41,000–48,000 (target: home office, crafters, teachers).",
+      "Premium Buyers": "best at 49,000–55,000 (target: custom decorated sets, gift items, eco-themed products)."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Select Boxes",
+        "instruction": "Pilih kotak sereal dengan beberapa ukuran berbeda untuk variasi kompartemen.",
+        "technicalCriteria": [
+          "Kotak dalam kondisi utuh, tidak penyok parah"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Measure & Mark",
+        "instruction": "Gunakan penggaris dan pensil untuk menandai garis potong pada setiap kotak.",
+        "technicalCriteria": [
+          "Garis tanda lurus dan terukur dengan jelas"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 3,
+        "title": "Cut Shapes",
+        "instruction": "Potong kotak sesuai tinggi yang berbeda-beda menggunakan gunting atau cutter.",
+        "technicalCriteria": [
+          "Potongan lurus dan rata sesuai garis tanda",
+          "Tinggi tiap kompartemen sesuai desain yang direncanakan"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Cover Boxes",
+        "instruction": "Olesi lem dan bungkus setiap kotak dengan kertas scrapbook atau kertas kado.",
+        "technicalCriteria": [
+          "Kertas pembungkus menutupi seluruh permukaan tanpa kerutan besar",
+          "Tidak ada bagian kotak asli yang masih terlihat"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Reinforce Edges",
+        "instruction": "Perkuat sudut dan tepi dengan lem atau tape tambahan untuk daya tahan.",
+        "technicalCriteria": [
+          "Seluruh sudut tertutup rapat tanpa bagian terbuka",
+          "Tepi tidak mudah terkelupas saat ditekan ringan"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Arrange & Glue",
+        "instruction": "Susun kotak-kotak menjadi satu kelompok dan rekatkan dengan kuat satu sama lain.",
+        "technicalCriteria": [
+          "Susunan kotak rapi dan simetris",
+          "Sambungan antar kotak kokoh, tidak mudah lepas"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 7,
+        "title": "Final Touch",
+        "instruction": "Tambahkan label atau aksen dekoratif untuk menyelesaikan tampilan organizer.",
+        "technicalCriteria": [
+          "Label/aksen terpasang rapi dan simetris"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "bottle_cap_magnets",
+    "title": "Cheap and Simple Bottle Cap Magnets",
+    "materialType": "tutup_botol",
+    "difficulty": "mudah",
+    "estimatedValue": 6000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fcap-magnet.webp?alt=media&token=833dccc6-f91c-45b9-bed4-12e2b19a8c60",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NGp826K-Ajg",
+    "description": "Create fun and eco-friendly fridge magnets by reusing bottle caps, small images, and strong magnets.",
+    "supplies_needed": [
+      "Bottle caps (metal or plastic)",
+      "Small printed images or decorative cutouts",
+      "Strong magnets",
+      "Glue (hot glue or epoxy)",
+      "Clear epoxy resin or Mod Podge (optional for glossy finish)",
+      "Scissors"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Bottle Caps (recycled)": "0",
+        "Magnets (pack of 10)": "15,000–25,000",
+        "Glue / Epoxy": "8,000–12,000",
+        "Printed Images": "2,000–5,000",
+        "Clear Resin / Mod Podge (optional)": "10,000–15,000",
+        "Scissors": "0 (household item)"
+      },
+      "suggested_price": "5,000–8,000 per piece or 40,000–60,000 per set of 10",
+      "profit": "25,000–40,000 per set"
+    },
+    "estimated_time": "20–30 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 5,000–6,000 each (target: students, casual gifts, DIY fans).",
+      "Mid-Range Buyers": "best at 7,000–7,500 each (target: home decorators, cafes, craft enthusiasts).",
+      "Premium Buyers": "best at 8,000 each or sets (target: boutique crafts, gift shops, custom themes)."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Collect Caps",
+        "instruction": "Kumpulkan tutup botol logam atau plastik yang bersih dan kering dari botol soda atau bir.",
+        "technicalCriteria": [
+          "Tutup botol bersih, tidak berkarat atau berkarat ringan saja"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Prepare Images",
+        "instruction": "Potong gambar, pola, atau foto kecil agar pas masuk ke dalam tutup botol.",
+        "technicalCriteria": [
+          "Ukuran gambar pas dengan diameter dalam tutup botol",
+          "Potongan gambar rapi tanpa bagian terpotong tidak rata"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 3,
+        "title": "Glue Images",
+        "instruction": "Rekatkan gambar ke dalam setiap tutup botol menggunakan lem atau Mod Podge.",
+        "technicalCriteria": [
+          "Gambar menempel rata tanpa gelembung udara",
+          "Posisi gambar berada di tengah tutup botol"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Seal Finish (Optional)",
+        "instruction": "Tambahkan lapisan tipis resin bening atau Mod Podge untuk hasil mengkilap.",
+        "technicalCriteria": [
+          "Lapisan akhir merata dan mengkilap tanpa gelembung udara"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 5,
+        "title": "Attach Magnet",
+        "instruction": "Rekatkan magnet kuat di bagian belakang setiap tutup botol.",
+        "technicalCriteria": [
+          "Magnet terpasang tepat di tengah bagian belakang",
+          "Magnet menempel kuat dan tidak mudah lepas"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": true,
+        "validationType": "handle"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Dry & Use",
+        "instruction": "Biarkan lem mengering sempurna, lalu tempelkan pada kulkas atau papan magnet.",
+        "technicalCriteria": [
+          "Magnet dapat menahan beban tutup botol pada permukaan vertikal"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "plastic_bottle_phone_holder",
+    "title": "Plastic Bottle Phone Holder (Charger Station)",
+    "materialType": "botol_plastik",
+    "difficulty": "sedang",
+    "estimatedValue": 40000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fphone-holder.jpg?alt=media&token=4742f3d9-a05b-4990-a5d8-76bb009205ba",
+    "youtubeUrl": "https://www.youtube.com/watch?v=S7GY1uavdIM",
+    "description": "Repurpose a plastic lotion or shampoo bottle into a wall-hanging phone holder that keeps your device safe while charging.",
+    "supplies_needed": [
+      "Empty plastic lotion/shampoo bottle",
+      "Craft knife or sharp scissors",
+      "Sandpaper or nail file",
+      "Fabric or decorative paper",
+      "Mod Podge or spray adhesive",
+      "Paintbrush",
+      "Marker & ruler"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Plastic Bottle (recycled)": "0",
+        "Decorative Paper/Fabric": "5,000–10,000",
+        "Mod Podge / Adhesive": "8,000–12,000",
+        "Sandpaper/Nail File": "2,000–4,000",
+        "Craft Knife/Scissors": "0 (household item)"
+      },
+      "suggested_price": "30,000–50,000",
+      "profit": "15,000–35,000"
+    },
+    "estimated_time": "25–40 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 30,000–35,000 (target: students, dorms, eco-friendly DIY lovers).",
+      "Mid-Range Buyers": "best at 36,000–42,000 (target: office workers, home users, simple gifting).",
+      "Premium Buyers": "best at 43,000–50,000 (target: craft fairs, custom decorated charging stations)."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Clean Bottle",
+        "instruction": "Cuci dan keringkan botol plastik secara menyeluruh sebelum digunakan.",
+        "technicalCriteria": [
+          "Botol bersih dari sisa cairan dan label lama"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Mark Cut Lines",
+        "instruction": "Gunakan marker dan penggaris untuk menandai garis bukaan dan slot bagian belakang.",
+        "technicalCriteria": [
+          "Garis tanda jelas dan simetris pada kedua sisi botol"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 3,
+        "title": "Cut Shape",
+        "instruction": "Potong botol sesuai garis tanda menggunakan gunting atau cutter.",
+        "technicalCriteria": [
+          "Potongan mengikuti garis tanda dengan presisi",
+          "Bentuk bukaan simetris kiri-kanan"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Smooth Edges",
+        "instruction": "Haluskan tepi plastik yang tajam menggunakan amplas atau kikir kuku.",
+        "technicalCriteria": [
+          "Tidak ada tepi tajam yang dapat melukai pengguna",
+          "Permukaan tepi terasa halus saat disentuh"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 5,
+        "title": "Decorate Bottle",
+        "instruction": "Tutupi permukaan botol dengan kain atau kertas dekoratif menggunakan Mod Podge atau perekat semprot.",
+        "technicalCriteria": [
+          "Lapisan dekoratif menutupi seluruh permukaan tanpa kerutan besar",
+          "Tidak ada bagian plastik asli yang masih terlihat"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Seal Surface",
+        "instruction": "Aplikasikan lapisan tipis Mod Podge sebagai topcoat untuk daya tahan ekstra.",
+        "technicalCriteria": [
+          "Lapisan topcoat merata dan kering sempurna"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 7,
+        "title": "Cut Charger Slot",
+        "instruction": "Potong bukaan kecil di bagian belakang untuk jalur masuk kabel charger.",
+        "technicalCriteria": [
+          "Posisi slot sejajar dengan posisi port charger HP",
+          "Ukuran slot cukup untuk kabel tanpa terlalu besar"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 8,
+        "title": "Ready to Use",
+        "instruction": "Gantungkan botol pada area dekat charger, lalu letakkan ponsel di dalamnya.",
+        "technicalCriteria": [
+          "Holder dapat menahan ponsel dengan stabil tanpa terjatuh"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "recycled_cereal_box_notebooks",
+    "title": "Recycled Cereal Box Notebooks",
+    "materialType": "kardus",
+    "difficulty": "mudah",
+    "estimatedValue": 27000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Fnotebook-cereal.webp?alt=media&token=23c60370-c093-4862-a4cc-f95552f3afd7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dGJuOPJOrUc",
+    "description": "Upcycle empty cereal boxes into creative and eco-friendly notebooks, perfect for school, journaling, or gifts.",
+    "supplies_needed": [
+      "Empty cereal box",
+      "White printer paper or lined paper (10–15 sheets per notebook)",
+      "Ruler and pencil",
+      "Scissors or craft knife",
+      "Glue stick or double-sided tape",
+      "Stapler or sewing machine (for binding)",
+      "Decorative paper, washi tape, or stickers (optional)"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Cereal Box (recycled)": "0",
+        "Printer/Lined Paper": "5,000–10,000",
+        "Glue Stick/Tape": "5,000–8,000",
+        "Staples/Thread": "2,000–4,000",
+        "Decorative Paper/Stickers (optional)": "5,000–10,000"
+      },
+      "suggested_price": "20,000–35,000 per notebook",
+      "profit": "10,000–25,000 per notebook"
+    },
+    "estimated_time": "30–45 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 20,000–23,000 (target: students, simple eco-friendly notebooks).",
+      "Mid-Range Buyers": "best at 24,000–29,000 (target: home journaling, teachers, DIY craft fans).",
+      "Premium Buyers": "best at 30,000–35,000 (target: personalized gifts, decorated journals, craft fair items)."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Flatten Box",
+        "instruction": "Buka dan ratakan kotak sereal secara menyeluruh.",
+        "technicalCriteria": [
+          "Kotak terbuka rata tanpa robekan besar"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 2,
+        "title": "Measure & Cut",
+        "instruction": "Tandai dan potong ukuran cover sedikit lebih besar dari ukuran tumpukan kertas.",
+        "technicalCriteria": [
+          "Ukuran cover melebihi ukuran kertas isi sekitar 0,5-1 cm di setiap sisi",
+          "Potongan lurus dan rapi"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Fold Cover",
+        "instruction": "Lipat potongan kotak sereal menjadi dua untuk membentuk cover notebook.",
+        "technicalCriteria": [
+          "Lipatan cover tepat di tengah dan sejajar",
+          "Kedua sisi cover memiliki ukuran yang sama"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Prepare Pages",
+        "instruction": "Susun kertas printer atau kertas bergaris dengan rapi agar pas masuk ke dalam cover.",
+        "technicalCriteria": [
+          "Tumpukan kertas rata di setiap sisi (tidak ada yang menonjol keluar cover)"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 5,
+        "title": "Bind Notebook",
+        "instruction": "Satukan halaman ke dalam cover menggunakan stapler atau jahitan di bagian lipatan.",
+        "technicalCriteria": [
+          "Jarak antar staples/jahitan merata di sepanjang lipatan",
+          "Halaman terikat kuat dan tidak mudah lepas saat dibuka-tutup"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": false
+      },
+      {
+        "stepNumber": 6,
+        "title": "Decorate Cover",
+        "instruction": "Tambahkan washi tape, stiker, atau kertas dekoratif untuk tampilan custom pada cover.",
+        "technicalCriteria": [
+          "Dekorasi tertata rapi dan tidak menutupi area lipatan/jahitan"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Final Touch",
+        "instruction": "Rapikan tepi notebook jika diperlukan agar hasil akhir terlihat bersih.",
+        "technicalCriteria": [
+          "Tepi notebook rata dan sejajar di seluruh sisi",
+          "Tidak ada bagian kertas yang menonjol keluar dari cover"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": false
+      }
+    ]
+  },
+  {
+    "id": "tas_anyaman_sachet_kopi",
+    "title": "Tas Anyaman Sachet Kopi",
+    "materialType": "sachet_multilayer",
+    "difficulty": "sedang",
+    "estimatedValue": 18000,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ecomall-7f232.firebasestorage.app/o/products%2Ftas-anyaman-sachet-kopi.png?alt=media&token=GENERATED-PLACEHOLDER-TOKEN-0001",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=tas+anyaman+sachet+kopi+plastik",
+    "description": "Anyam puluhan bungkus sachet kopi kosong menjadi tas jinjing yang kuat, warna-warni, dan ramah lingkungan.",
+    "supplies_needed": [
+      "50-100 bungkus sachet kopi kosong (bersih & kering)",
+      "Gunting",
+      "Cetakan kardus ukuran 8,5 cm x 2 cm (alat bantu lipat)",
+      "Penggaris & pensil",
+      "Lem tembak atau jarum jahit & tali nilon (untuk mengunci handle, opsional)",
+      "Kain pelapis dalam (opsional, untuk merapikan bagian dalam tas)"
+    ],
+    "estimated_cost_and_price": {
+      "cost": {
+        "Sachet Kopi Kosong (recycled)": "0",
+        "Gunting": "0 (household item)",
+        "Cetakan Kardus (alat bantu)": "0-2,000",
+        "Penggaris & Pensil": "0 (household item)",
+        "Lem Tembak / Jarum & Tali Nilon": "3,000-5,000",
+        "Kain Pelapis Dalam (opsional)": "3,000-6,000"
+      },
+      "suggested_price": "15,000-25,000",
+      "profit": "9,000-22,000"
+    },
+    "estimated_time": "90-120 menit",
+    "market_segment": {
+      "Budget Buyers": "best at 15,000-18,000 (target: pelajar, komunitas daur ulang, pasar lokal)",
+      "Mid-Range Buyers": "best at 19,000-22,000 (target: pecinta produk ramah lingkungan, ibu rumah tangga, pasar craft)",
+      "Premium Buyers": "best at 23,000-25,000 (target: toko oleh-oleh eco-friendly, kolektor kerajinan unik)"
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Persiapan dan Pemotongan Bungkus Kopi",
+        "instruction": "Kumpulkan bungkus kopi instan saset yang sudah kosong, lalu bersihkan dari sisa bubuk kopi. Gunting bagian ujung atas dan bawah setiap bungkus agar rapi. Gunakan cetakan kardus berukuran 8,5 cm x 2 cm sebagai panduan untuk memotong/menandai ukuran lipatan secara seragam.",
+        "technicalCriteria": [
+          "Lebar potongan strip 20-30 mm (target 20 mm sesuai cetakan)",
+          "Panjang strip konsisten sekitar 8,5 cm",
+          "Potongan lurus, bersih, tanpa sisa bubuk kopi atau kotoran"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Melipat Pita Memanjang",
+        "instruction": "Lipat bungkus kopi memanjang menyesuaikan lebar cetakan kardus (2 cm). Lipat sisi-sisinya ke arah dalam agar pita menjadi rapi dan tebal.",
+        "technicalCriteria": [
+          "Lebar pita akhir konsisten 18-22 mm",
+          "Lipatan sisi simetris kiri-kanan",
+          "Tidak ada bagian sachet yang masih terbuka/menyembul"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_alignment"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Membentuk Modul Anyaman (V-Module)",
+        "instruction": "Lipat pita memanjang menjadi dua bagian di tengah. Lipat kedua ujung pita ke arah dalam/tengah hingga membentuk modul pendek berbentuk huruf 'V' pipih dengan celah di tengahnya. Ulangi proses ini untuk membuat puluhan hingga ratusan modul.",
+        "technicalCriteria": [
+          "Modul membentuk pola V simetris pada lengan kiri dan kanan",
+          "Celah tengah modul cukup lebar untuk menyelipkan modul lain",
+          "Ukuran tiap modul seragam antar satu sama lain"
+        ],
+        "milestoneIndex": 0,
+        "requiresValidation": true,
+        "validationType": "fold_module"
+      },
+      {
+        "stepNumber": 4,
+        "title": "Mengunci Empat Modul Pertama",
+        "instruction": "Ambil empat modul lipatan dan rangkaikan satu sama lain dengan saling memasukkan ujung lipatan ke dalam celah modul lainnya hingga membentuk formasi silang. Tarik dan rapatkan keempat modul tersebut hingga mengunci dan membentuk satu motif persegi (kotak) anyaman dasar.",
+        "technicalCriteria": [
+          "Sudut pertemuan keempat modul mendekati 90 derajat",
+          "Bentuk kotak dasar simetris dan rapat, tidak ada celah longgar",
+          "Kuncian antar modul kokoh saat ditarik"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "fold_module"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Memperluas Anyaman Alas Tas",
+        "instruction": "Lanjutkan menambahkan modul baru dan menganyamnya satu per satu untuk memperluas lembaran dasar tas. Sambung anyaman terus hingga membentuk alas tas berbentuk persegi panjang sesuai ukuran yang diinginkan.",
+        "technicalCriteria": [
+          "Kerapatan anyaman merata, tidak ada gap atau lubang besar",
+          "Bentuk alas persegi panjang simetris pada keempat sisinya",
+          "Permukaan alas rata tanpa modul yang menonjol berlebihan"
+        ],
+        "milestoneIndex": 1,
+        "requiresValidation": true,
+        "validationType": "weave_base"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Menganyam Dinding Tas (Baris Pertama)",
+        "instruction": "Setelah alas selesai, mulai anyam modul dengan arah menekuk ke atas untuk membentuk dinding tas. Untuk mengunci satu putaran dinding (baris pertama), sambungkan ujung anyaman terakhir dan selipkan kembali ke dalam celah anyaman modul pertama pada baris tersebut sehingga anyaman melingkar tanpa terputus.",
+        "technicalCriteria": [
+          "Tinggi baris pertama seragam di seluruh sisi tas (toleransi selisih maksimal 12%)",
+          "Sambungan akhir baris tertutup rapat tanpa celah terbuka",
+          "Dinding tegak lurus terhadap alas (deviasi sudut ≤ 8°)"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "weave_wall"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Melanjutkan Anyaman Dinding (Baris Berikutnya)",
+        "instruction": "Lanjutkan dengan baris kedua dan seterusnya hingga dinding tas perlahan naik mencapai ketinggian yang diinginkan.",
+        "technicalCriteria": [
+          "Tinggi total dinding sesuai target desain (misal 15-20 cm)",
+          "Selisih tinggi antar sisi depan dan sisi samping maksimal 12%",
+          "Pola anyaman konsisten dari baris ke baris tanpa pola yang melompat"
+        ],
+        "milestoneIndex": 2,
+        "requiresValidation": true,
+        "validationType": "weave_wall"
+      },
+      {
+        "stepNumber": 8,
+        "title": "Merapikan Bagian Atas Tas",
+        "instruction": "Tekuk/lipat ujung-ujung pita anyaman yang masih mencuat di bibir tas ke arah dalam atau bawah. Selipkan sisa ujung lipatan tersebut ke dalam celah anyaman yang ada persis di bawahnya, lalu tarik kuat agar anyaman terkunci rapat dan bibir tas menjadi rata serta kokoh.",
+        "technicalCriteria": [
+          "Tidak ada ujung pita yang menyembul keluar dari struktur anyaman",
+          "Bibir/tepi atas tas rata dan sejajar di sekeliling tas",
+          "Seluruh ujung tersembunyi dan terkunci kuat di dalam anyaman"
+        ],
+        "milestoneIndex": 3,
+        "requiresValidation": true,
+        "validationType": "finishing"
+      },
+      {
+        "stepNumber": 9,
+        "title": "Membuat Tali Pegangan (Handle)",
+        "instruction": "Ambil modul lipatan dan masukkan ujung modul lain ke dalamnya secara terus-menerus sehingga mengunci dan membentuk anyaman rantai zig-zag yang kuat dan memanjang. Buat dua buah rantai untuk dijadikan tali jinjing (handle) tas.",
+        "technicalCriteria": [
+          "Panjang kedua tali handle sama (toleransi selisih maksimal 1 cm)",
+          "Pola zig-zag rapat dan konsisten di sepanjang tali",
+          "Tali cukup kokoh saat ditarik, tidak mudah lepas"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": true,
+        "validationType": "handle"
+      },
+      {
+        "stepNumber": 10,
+        "title": "Memasang Tali Pegangan ke Badan Tas",
+        "instruction": "Posisikan ujung tali jinjing di bagian dalam dinding tas (sebelah kanan dan kiri). Gunakan sisa potongan pita atau modul tambahan untuk menyambungkan dan mengunci tali ke dinding tas, dengan menyelipkan ujung pengunci erat menembus anyaman dinding tas agar tali mampu menahan beban.",
+        "technicalCriteria": [
+          "Letak titik pemasangan handle kiri dan kanan simetris dari sumbu tengah tas",
+          "Kedua sisi handle terpasang kokoh dan tidak goyah saat ditarik",
+          "Pengunci tali tersembunyi rapi di balik anyaman dinding"
+        ],
+        "milestoneIndex": 4,
+        "requiresValidation": true,
+        "validationType": "handle"
+      }
+    ]
+  }
+]
