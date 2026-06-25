@@ -80,7 +80,11 @@ class ProductModel {
   }
 
   ProductModel copyWith({
+    String? title,
+    String? description,
+    String? category,
     int? price,
+    List<String>? imageUrls,
     String? status,
     bool? isVerified,
   }) {
@@ -88,11 +92,11 @@ class ProductModel {
       id: id,
       creatorId: creatorId,
       creatorName: creatorName,
-      title: title,
-      description: description,
-      category: category,
+      title: title ?? this.title,
+      description: description ?? this.description,
+      category: category ?? this.category,
       price: price ?? this.price,
-      imageUrls: imageUrls,
+      imageUrls: imageUrls ?? this.imageUrls,
       materialType: materialType,
       weightGrams: weightGrams,
       co2OffsetGrams: co2OffsetGrams,
